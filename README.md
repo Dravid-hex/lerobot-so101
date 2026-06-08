@@ -6,6 +6,12 @@ Implementation of imitation learning policies on a SO-101 6-DOF robotic arm usin
 **Institution:** Tecnológico de Monterrey  
 **HuggingFace:** [Dravid419](https://huggingface.co/Dravid419)
 
+| Task | Policy |
+| David Gilberto Lomeli Leal A01571193 |
+| David Alejandro Soni Cuevas A01571777 |
+| Irvin David Ornelas Garcia A00839065 |
+| Abraham de jesus Maldonado Mata A00838581 |
+| Carla Elizabeth Regalado Luna A00837070 |
 ---
 
 ## Demos
