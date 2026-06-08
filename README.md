@@ -12,6 +12,8 @@ Implementation of imitation learning policies on a SO-101 6-DOF robotic arm usin
 | Irvin David Ornelas Garcia A00839065 |
 | Abraham de jesus Maldonado Mata A00838581 |
 | Carla Elizabeth Regalado Luna A00837070 |
+
+
 ---
 
 ## Demos
