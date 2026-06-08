@@ -195,7 +195,6 @@ Press **SPACE** to launch the policy for the detected orientation.
 ## References
 
 - Zhao, T. Z. et al. (2023). *Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware.* RSS 2023.
-- Chi, C. et al. (2023). *Diffusion Policy: Visuomotor Policy Learning via Action Diffusion.* RSS 2023.
 - Ren, A. et al. (2024). *DPPO: Diffusion Policy Policy Optimization.* arXiv:2409.00588.
 - Brohan, A. et al. (2023). *RT-2: Vision-Language-Action Models.* arXiv:2307.15818.
 - Garrido-Jurado, S. et al. (2014). *Automatic generation and detection of highly reliable fiducial markers.* Pattern Recognition.
